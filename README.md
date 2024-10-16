@@ -11,5 +11,4 @@
 3.	Issue Resolution Consistency: There’s some variability in agents’ issue resolution rates, such as Stewart resolving only 424 issues out of 477 calls. Analyzing why some agents resolve fewer issues could help improve consistency across the team.
 
 Dashboard
-![dashboard](https://github.com/RohanKoti/Call-Center-trends-PwC-Switzerland-PowerBI-Job-Simulation/blob/main/pwc%20call%20center.PNG?raw=true)
 
