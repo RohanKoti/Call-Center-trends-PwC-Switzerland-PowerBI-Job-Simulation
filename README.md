@@ -10,5 +10,6 @@
 2.	Speed of Answer: The SOA varies across agents, with Joe having a notably slower response time. By optimizing call handling techniques or workload distribution, response time can be reduced across the team.
 3.	Issue Resolution Consistency: There’s some variability in agents’ issue resolution rates, such as Stewart resolving only 424 issues out of 477 calls. Analyzing why some agents resolve fewer issues could help improve consistency across the team.
 
-Dashboard
+**Dashboard**
+![dashboard](https://github.com/RohanKoti/Call-Center-trends-PwC-Switzerland-PowerBI-Job-Simulation/blob/main/PwC_callcenter.PNG?raw=true)
 
